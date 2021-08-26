@@ -1,0 +1,172 @@
+* {
+  margin-bottom: 0px;
+  font-family: "Merriweather", serif;
+}
+
+body {
+  margin: 0px;
+  text-align: center;
+}
+
+div {
+  margin: 0%;
+}
+
+.first-container > h1 {
+  color: #66bfbf;
+  font-size: 5.625rem;
+  font-family: "Sacramento", cursive;
+  margin: 50px auto 0px auto;
+}
+
+.first-container > p {
+  color: #66bfbf;
+  font-size: 2.5em;
+  font-weight: normal;
+  margin-bottom: 0%;
+}
+
+.first-container {
+  background-color: #eaf6f6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.skills-img {
+  width: 40%;
+  float: left;
+  padding-right: 30px;
+}
+
+.netflix-img {
+  width: 23%;
+  float: right;
+  padding-left: 30px;
+}
+
+.skills {
+  padding: 50px 0px 75px 0px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 75px auto 100px auto;
+}
+
+.skill-row-1 {
+  text-align: left;
+  width: 90%;
+  padding: 85px;
+}
+
+.skill-row-2 {
+  text-align: left;
+  padding-top: 75px;
+}
+
+.skill-row-1 > p {
+  line-height: 2;
+}
+
+.skill-row-2 > p {
+  line-height: 2;
+}
+
+.profile {
+  margin-bottom: 3%;
+}
+
+.profile > p {
+  color: #40514e;
+}
+
+.middle-container {
+  background-color: white;
+  padding-top: 13%;
+}
+
+.bottom-container {
+  background-color: #11999e;
+  padding: 25px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 30%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 30%;
+  bottom: 300px;
+}
+
+.footer-link,
+.btn {
+  text-decoration: none;
+}
+
+.contact-me {
+  margin: 3% 0%;
+}
+
+.contact-me2 {
+  margin: 20px auto;
+}
+
+.Button {
+  background: #5ef9f9;
+  background-image: -webkit-linear-gradient(top, #5ef9f9, #278f8f);
+  background-image: -moz-linear-gradient(top, #5ef9f9, #278f8f);
+  background-image: -ms-linear-gradient(top, #5ef9f9, #278f8f);
+  background-image: -o-linear-gradient(top, #5ef9f9, #278f8f);
+  background-image: -webkit-gradient(to bottom, #5ef9f9, #278f8f);
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 10px;
+  height: 10px;
+  line-height: 9px;
+  color: #ffffff;
+  width: 125px;
+  font-family: "Merriweather", serif;
+  font-size: 18px;
+  font-weight: 300;
+  padding: 17px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.fa {
+  padding: 15px;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55acee;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.footer-link {
+  margin: 10px;
+}
